@@ -17,7 +17,7 @@ Support Vector Machines
 Boosting ALgorithms
 Bias-Variance
 Evalutation Metrics (precision, recall, F1, ROC Curve, AOC score)
-
+```
 # Natural Language Topics
 ```
 
@@ -32,7 +32,7 @@ Text Classification
 Text Matching
 Text Summarisation
 Sentiment Analysis
-
+```
 #### For further query can connect me on my linkedin profile and dm me 
 [linkedin:](https://www.linkedin.com/in/amit-kumar-2797351a9/)
 
